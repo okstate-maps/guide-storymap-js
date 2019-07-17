@@ -68,7 +68,7 @@ StoryMap JS is easy to use and a convenient story map creator.
 
 ![Share](images/Share.PNG)
 
-![Features]
+![Features](images/Features.PNG)
 
 ## Conclusion
 StoryMap JS offers a simple layout for a story map that is best for linear story-telling.
